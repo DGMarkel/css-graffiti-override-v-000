@@ -3,6 +3,6 @@
   display: none;
 }
 
-div nth-child(3){
+#wall div nth-child(3){
   display: none;
 }
